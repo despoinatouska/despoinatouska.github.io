@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Despoina Touska
+    - name: Nationality
+      value: Greek
     - name: Languages
-      value: English, German
+      value: Greek (Native), English (Fluent – IELTS 7.5), German (Basic – A2)
 
 - title: Education
   type: time_table
