@@ -1,24 +1,21 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Despoina Touska",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "d3py.tousk@gmail.com",
+    "url": "https://despoinatouska.github.io/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Amsterdam",
+      "countryCode": "NL",
+      "region": "the Netherlands"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "DespoinaTouska",
+        "url": "https://www.linkedin.com/in/despoina-touska-351b72197/"
       }
     ]
   },
